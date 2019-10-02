@@ -83,11 +83,20 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.MemoryProfiler">
+      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.MemoryProfiler.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
@@ -116,6 +125,9 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
@@ -130,18 +142,6 @@
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.MemoryProfiler">
-      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.MemoryProfiler.dll</HintPath>
     </Reference>
     <Reference Include="Unity.MemoryProfiler.Editor">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.MemoryProfiler.Editor.dll</HintPath>
@@ -341,6 +341,9 @@
     <Reference Include="UnityEditor.iOS.Extensions">
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
@@ -355,9 +358,6 @@
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
-    </Reference>
-    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
-      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
