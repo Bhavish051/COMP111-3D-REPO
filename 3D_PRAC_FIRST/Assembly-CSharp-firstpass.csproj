@@ -269,6 +269,12 @@
     <Reference Include="Unity.MemoryProfiler.Editor">
       <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Unity.MemoryProfiler.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>C:/Users/45525005/Documents/GitHub/COMP111-3D-REPO/3D_PRAC_FIRST/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>
